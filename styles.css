@@ -1,0 +1,38 @@
+.menu{
+    display: flex ;
+    background-color:lightblue;
+    padding: 15px;
+    font-size: 25px;
+    font-family: Poppy;
+    font-weight: 400;
+    color: lightcoral;
+}
+body{
+    margin: 0.5px;
+    background-color:lightcyan;
+   
+    
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 100px;
+    font-family: Baskerville;
+    
+}
+.grid img{
+    border: 2px solid #ffffff;
+    border-radius: 0px;
+}
+.sla {
+    
+    border-radius: 10px;
+    background-color: white;
+    padding: 30px;
+    margin: 5px;
+    width:310px;
+    font-family:Baskerville;
+    
+}
